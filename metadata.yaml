@@ -1,5 +1,8 @@
 _repo: Camping-in-the-Winter-Woods-Adventures-of-Two-Boys-in-the-Maine-Woods_63873
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63873-h/images/cover.jpg
 creator:
   author:
     agent_name: Gregor, Elmer Russell
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '37423'
     url: http://www.gutenberg.org/2009/agents/37423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63873#Camping-in-the-Winter-Woods-Adventures-of-Two-Boys-in-the-Maine-Woods
 gutenberg_issued: '2020-11-24'
 gutenberg_type: Text
 identifiers:
